@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "FindingSheep.data.unityweb",
+"asmCodeUrl": "FindingSheep.asm.code.unityweb",
+"asmMemoryUrl": "FindingSheep.asm.memory.unityweb",
+"asmFrameworkUrl": "FindingSheep.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
